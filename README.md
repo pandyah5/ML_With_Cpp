@@ -1,4 +1,4 @@
-# ML_With_C-
+# ML_With_Cpp
 This repo contains what most people fear - "ML with C++"
 
 Each folder contains the project files related to a Machine Learning Algorithm in C++. These are a combination of .cpp, .h and Makefiles.
