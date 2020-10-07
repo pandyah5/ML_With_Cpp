@@ -8,9 +8,9 @@ Upon training this model on the dataset for 100000 iterations, we obtained a lin
 number of iterations too.
 
 > Here is a plot of the training data and our model prediction
-![Image of Train Performance](./train_performance.png)
+![Image of Train Performance](./train_performance.PNG)
 
 > Here is a plot of the testing data and our model prediction
-![Image of Test Performance](./test_performance.png)
+![Image of Test Performance](./test_performance.PNG)
 
 _As we can see our goal here has been accomplished!_
