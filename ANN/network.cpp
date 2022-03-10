@@ -8,6 +8,7 @@ class neuron{
     public:
         vector<double> weight;
         double bias;
+        vector<double> delta;
 
     public:
         vector<double> feed_forward(vector<double> input){
@@ -17,6 +18,8 @@ class neuron{
             }
             return output;
         }
+
+        
 };
 
 double mse_loss(vector<double> target, vector<double> output){
